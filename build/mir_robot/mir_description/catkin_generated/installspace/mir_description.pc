@@ -1,0 +1,8 @@
+prefix=/home/h4k4se/catkin_ws/install
+
+Name: mir_description
+Description: Description of mir_description
+Version: 1.0.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

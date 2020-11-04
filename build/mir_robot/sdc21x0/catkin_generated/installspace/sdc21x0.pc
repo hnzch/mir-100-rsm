@@ -1,0 +1,8 @@
+prefix=/home/h4k4se/catkin_ws/install
+
+Name: sdc21x0
+Description: Description of sdc21x0
+Version: 1.0.6
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime std_msgs
