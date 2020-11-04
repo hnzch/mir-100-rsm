@@ -1,8 +1,0 @@
-prefix=/home/h4k4se/catkin_ws/devel
-
-Name: mir_gazebo
-Description: Description of mir_gazebo
-Version: 1.0.6
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

@@ -1,8 +1,0 @@
-prefix=/home/h4k4se/catkin_ws/devel
-
-Name: rsm_additions
-Description: Description of rsm_additions
-Version: 1.1.3
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
