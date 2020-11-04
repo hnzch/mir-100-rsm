@@ -1,2 +1,0 @@
-m-explore/explore:m-explore/map_merge:mir_robot/mir_actions:mir_robot/mir_description:mir_robot/mir_driver:mir_robot/mir_dwb_critics:mir_robot/mir_gazebo:mir_robot/mir_msgs:mir_robot/mir_navigation:mir_robot/mir_robot:mir_robot/sdc21x0:robot_statemachine/robot_statemachine:robot_statemachine/rsm_additions:robot_statemachine/rsm_core:robot_statemachine/rsm_msgs:robot_statemachine/rsm_rqt_plugins:robot_statemachine/rsm_rviz_plugins
--DCATKIN_DEVEL_PREFIX=/home/h4k4se/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/h4k4se/catkin_ws/install -G Unix Makefiles

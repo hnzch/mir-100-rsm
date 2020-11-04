@@ -1,2 +1,0 @@
-set(rsm_msgs_MESSAGE_FILES "msg/Waypoint.msg;msg/WaypointArray.msg;msg/OperationMode.msg;msg/GoalStatus.msg")
-set(rsm_msgs_SERVICE_FILES "srv/AddWaypoint.srv;srv/GetWaypoints.srv;srv/MoveWaypoint.srv;srv/RemoveWaypoint.srv;srv/WaypointVisited.srv;srv/WaypointUnreachable.srv;srv/SetWaypointFollowingMode.srv;srv/SetWaypointRoutine.srv;srv/GetWaypointRoutines.srv;srv/SetNavigationGoal.srv;srv/GetNavigationGoal.srv;srv/GoalCompleted.srv;srv/GetRobotPose.srv;srv/SetOperationMode.srv")
